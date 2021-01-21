@@ -1,0 +1,9 @@
+{
+  "name": "puppeteer-aria-query-bug",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
